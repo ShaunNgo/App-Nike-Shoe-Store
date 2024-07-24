@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Nike Air 1",
+      "description": "Nike Air",
+      "imagePath": "air/air_1.png",
+      "price": 2100000
+    },
+    {
+      "id": 2,
+      "name": "Nike Air 2",
+      "description": "Nike Air 2",
+      "imagePath": "air/air_2.png",
+      "price": 2100000
+    },
+    {
+      "id": 3,
+      "name": "Nike Air 3",
+      "description": "Nike Air 3",
+      "imagePath": "air/air_3.png",
+      "price": 2100000
+    },
+    {
+      "id": 4,
+      "name": "Nike Air 4",
+      "description": "Nike Air 4",
+      "imagePath": "air/air_4.png",
+      "price": 2100000
+    },
+    {
+      "id": 5,
+      "name": "Nike Air 5",
+      "description": "Nike Air 5",
+      "imagePath": "air/air_5.png",
+      "price": 2100000
+    },
+    {
+      "id": 6,
+      "name": "Nike Air 6",
+      "description": "Nike Air 6",
+      "imagePath": "air/air_6.png",
+      "price": 2100000
+    },
+    {
+      "id": 7,
+      "name": "Nike Air 7",
+      "description": "Nike Air 7",
+      "imagePath": "air/air_7.png",
+      "price": 2100000
+    },
+    {
+      "id": 8,
+      "name": "Nike Air 8",
+      "description": "Nike Air 8",
+      "imagePath": "air/air_8.png",
+      "price": 2100000
+    },
+    {
+      "id": 9,
+      "name": "Nike Air 9",
+      "description": "Nike Air 9",
+      "imagePath": "air/air_9.png",
+      "price": 2100000
+    },
+    {
+      "id": 10,
+      "name": "Nike Air 10",
+      "description": "Nike Air 10",
+      "imagePath": "air/air_10.png",
+      "price": 2100000
+    }
+  ]
+}

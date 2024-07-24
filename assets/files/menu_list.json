@@ -1,0 +1,884 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Nike Air 1",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "air/air_1.png",
+      "price": 108,
+      "category": "Air",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nike Air 2",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "air/air_2.png",
+      "price": 108,
+      "category": "Air",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Nike Air 3",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "air/air_3.png",
+      "price": 108,
+      "category": "Air",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Nike Air 4",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "air/air_4.png",
+      "price": 108,
+      "category": "Air",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Nike Air 5",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "air/air_5.png",
+      "price": 108,
+      "category": "Air",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Nike Air 6",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "air/air_6.png",
+      "price": 108,
+      "category": "Air",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Nike Air 7",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "air/air_7.png",
+      "price": 108,
+      "category": "Air",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Nike Air 8",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "air/air_8.png",
+      "price": 108,
+      "category": "Air",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Nike Air 9",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "air/air_9.png",
+      "price": 108,
+      "category": "Air",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Nike Air 10",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "air/air_10.png",
+      "price": 108,
+      "category": "Air",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Nike Football 1",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "football/football_1.png",
+      "price": 108,
+      "category": "Football",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Nike Football 2",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "football/football_2.png",
+      "price": 108,
+      "category": "Football",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Nike Football 3",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "football/footballair_3.png",
+      "price": 108,
+      "category": "Football",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Nike Football 4",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "football/football_4.png",
+      "price": 108,
+      "category": "Football",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Nike Football 5",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "football/football_5.png",
+      "price": 108,
+      "category": "Football",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Nike Football 6",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "football/football_6.png",
+      "price": 108,
+      "category": "Football",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Nike Football 7",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "football/football_7.png",
+      "price": 108,
+      "category": "Football",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Nike Football 8",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "football/football_8.png",
+      "price": 108,
+      "category": "Football",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Nike Football 9",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "football/football_9.png",
+      "price": 108,
+      "category": "Football",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Nike Football 10",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "football/football_10.png",
+      "price": 108,
+      "category": "Football",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Nike Lifestyle 1",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "lifestyle/lifestyle_1.png",
+      "price": 108,
+      "category": "Lifestyle",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Nike Lifestyle 2",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "lifestyle/lifestyle_2.png",
+      "price": 108,
+      "category": "Lifestyle",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Nike Lifestyle 3",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "lifestyle/lifestyle_3.png",
+      "price": 108,
+      "category": "Lifestyle",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Nike Lifestyle 4",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "lifestyle/lifestyle_4.png",
+      "price": 108,
+      "category": "Lifestyle",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Nike Lifestyle 5",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "lifestyle/lifestyle_5.png",
+      "price": 108,
+      "category": "Lifestyle",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Nike Lifestyle 6",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "lifestyle/lifestyle_6.png",
+      "price": 108,
+      "category": "Lifestyle",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Nike Lifestyle 7",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "lifestyle/lifestyle_7.png",
+      "price": 108,
+      "category": "Lifestyle",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Nike Lifestyle 8",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "lifestyle/lifestyle_8.png",
+      "price": 108,
+      "category": "Lifestyle",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Nike Lifestyle 9",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "lifestyle/lifestyle_9.png",
+      "price": 108,
+      "category": "Lifestyle",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Nike Lifestyle 10",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "lifestyle/lifestyle_10.png",
+      "price": 108,
+      "category": "Lifestyle",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Nike Running 1",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "running/running_1.png",
+      "price": 108,
+      "category": "Running",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Nike Running 2",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "running/running_2.png",
+      "price": 108,
+      "category": "Running",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Nike Running 3",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "running/running_3.png",
+      "price": 108,
+      "category": "Running",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Nike Running 4",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "running/running_4.png",
+      "price": 108,
+      "category": "Running",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Nike Running 5",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "running/running_5.png",
+      "price": 108,
+      "category": "Running",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Nike Running 6",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "running/running_6.png",
+      "price": 108,
+      "category": "Running",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Nike Running 7",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "running/running_7.png",
+      "price": 108,
+      "category": "ARunningir",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Nike Running 8",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "running/running_8.png",
+      "price": 108,
+      "category": "Running",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Nike Running 9",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "running/running_9.png",
+      "price": 108,
+      "category": "Running",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Nike Running 10",
+      "description": "Giày Nike đầy cá tính!",
+      "imagePath": "running/running_10.png",
+      "price": 108,
+      "category": "Running",
+      "availableSize": [
+        {
+          "name": "Size 39"
+        },
+        {
+          "name": "Size 40"
+        },
+        {
+          "name": "Size 41"
+        },
+        {
+          "name": "Size 42"
+        }
+      ]
+    }
+  ]
+}
