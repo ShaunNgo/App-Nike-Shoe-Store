@@ -23,27 +23,27 @@ class _LoginPageState extends State<LoginPage> {
   TextEditingController _emailController = TextEditingController();
   TextEditingController _passwordController = TextEditingController();
 
-  login() async {
-    //lấy token (lưu share_preference)
-    String token = await APIRepository()
-        .login(_emailController.text, _passwordController.text);
-    var user = await APIRepository().current(token);
-    // save share
-    saveUser(user);
-    //chuyển đến home page
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => const HomePage(),
-      ),
-    );
-    return token;
-  }
+  // login() async {
+  //   //lấy token (lưu share_preference)
+  //   String token = await APIRepository()
+  //       .login(_emailController.text, _passwordController.text);
+  //   var user = await APIRepository().current(token);
+  //   // save share
+  //   saveUser(user);
+  //   //chuyển đến home page
+  //   Navigator.push(
+  //     context,
+  //     MaterialPageRoute(
+  //       builder: (context) => const HomePage(),
+  //     ),
+  //   );
+  //   return token;
+  // }
 
   @override
   void initState() {
     super.initState();
-    // autoLogin();
+    autoLogin();
   }
 
   autoLogin() async {
@@ -122,7 +122,12 @@ class _LoginPageState extends State<LoginPage> {
                 const SizedBox(height: 25),
                 MyButton(
                   text: 'Đăng nhập',
-                  opTap: login,
+                  opTap: () => Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const HomePage(),
+                    ),
+                  ),
                 ),
                 const SizedBox(height: 25),
                 Row(
